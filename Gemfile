@@ -10,7 +10,7 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'font-awesome-rails'
 gem 'stripe'
-gem 'carrierwave'
+gem 'carrierwave', '~> 1.2.1'
 gem 'mini_magick'
 gem 'fog'
 #jquery
